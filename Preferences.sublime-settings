@@ -1,0 +1,12 @@
+{
+	"font_size": 14,
+	"highlight_line": true,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"line_padding_bottom": 7,
+	"line_padding_top": 7,
+	"tab_size": 4,
+	"translate_tabs_to_spaces": true
+}
